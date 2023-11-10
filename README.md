@@ -8,7 +8,7 @@ Uso de [Visual Studio Code](https://code.visualstudio.com/) y [GitHub](https://g
 
 ### Práctica 2.5
 
-<img src="kirby.png" alt="kirby" width="100" height="100">
+<img src="img/kirby.png" alt="kirby" width="100" height="100">
 
 ```
 echo "Hello World";

@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 192, 221);
+}
+h1{
+    color: rgb(155, 25, 101);
+    text-decoration: underline;
+}
+ul{
+    list-style:circle;
+}
